@@ -1,2 +1,2 @@
 # Github and git confilct
-anyan Cai, HY1033
+yanyan Cai, HY1033
