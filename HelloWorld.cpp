@@ -1,4 +1,4 @@
-// Simple C++ program to display "Hello World" 
+// Simple C++ program to display "Testing git merge!" 
 //Author:Yanyan Cai<hy1033@wayne.edu>
 // Author: Yanyan Cai <hy1033@wayne.edu>
 // Header file for input output functions 
